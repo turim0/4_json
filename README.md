@@ -1,10 +1,8 @@
 # Prettify JSON
 
-Cкрипт, который на вход принимает  файл с произвольными данными в формате JSON и выводит его содержимое в консоль в удобном для чтения виде: добавляет переносы строк, отступы слева и пробелы.
+A script that accepts a data file in JSON format and outputs it to the console in an easy-to-read format: adds line breaks, left indents and spaces.
 
 # Quickstart
-
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
